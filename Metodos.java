@@ -1,6 +1,6 @@
 public class Metodos {
     
-// Estrutura
+//Estrutura
 //TipoRetorno NomeObjetivoNoInfinitivo (Parametro)
 //Exemplo
 int somar (int numeroUm, int numero2)
